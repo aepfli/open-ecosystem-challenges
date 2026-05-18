@@ -77,13 +77,15 @@ Your Codespace comes pre-configured with the following tools:
 
 The flagd sibling that the Beginner level introduced is still running here — the broken-state `OpenFeatureConfig` already targets it via `Resolver.RPC` (`flagd:8013` from the workspace, `localhost:8013` from your host).
 
-## ⏰ Deadline
+## 🏆 Rewards
 
-> 🚧 **Coming Soon** — this level is in the planned bucket. Final deadline will be announced when the adventure goes live.
+A **50% Linux Foundation certification voucher** for 1st place and **Credly badges** for the top 3 — for players who complete all three levels by **Tuesday, 26 May 2026 at 23:59 CET**. See the [adventure overview](index.md#-rewards) for ranking rules and eligibility details.
 
 ## 💬 Join the discussion
 
-> 🚧 **Coming Soon** — community thread will be linked here at launch.
+Share your solutions and questions in
+the [challenge thread](https://community.open-ecosystem.com/t/outcome-by-cohort-adventure-04-intermediate/1485)
+in the Open Ecosystem Community.
 
 ## ✅ How to Play
 
@@ -95,10 +97,10 @@ Quick start:
 
 - Fork the repo
 - Create a Codespace
-- Select "Adventure 00 | 🟡 Intermediate (Outcome by cohort)"
+- Select "Adventure 04 | 🟡 Intermediate (Outcome by cohort)"
 - Wait ~2-3 minutes for the Java toolchain to install (`Cmd/Ctrl + Shift + P` → `View Creation Log` to view progress)
 
-When the post-create finishes you'll have Java 21, the Maven wrapper, and the broken-state lab ready in `adventures/planned/00-blind-by-design/intermediate/`.
+When the post-create finishes you'll have Java 21, the Maven wrapper, and the broken-state lab ready in `adventures/04-blind-by-design/intermediate/`.
 
 ### 2. Start the Lab
 
